@@ -1,0 +1,58 @@
+
+
+nav a
+{
+    color: blueviolet;
+    text-decoration: underline;
+    
+}
+
+nav a:hover
+{
+    color:#ff9970;
+    
+}
+.head
+{
+    border:1px solid red;
+    width: 200px;
+    border-radius: 3px;
+    border-width: 10px;
+    border-top: 10px solid green;
+}
+.name
+{
+    color: #ff9970;
+    text-shadow: 1px 2px 3px;
+}
+
+.division
+{
+    background-color: blue;
+    width:100px;
+    height:100px;
+    box-shadow: 2px 4px 5px red;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 79px;
+    margin: auto;
+}
+.division p
+{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: 100;
+    
+}
+
+.form
+{
+    height:200px;
+    width: 300px;
+    margin-top: 30px;
+    background-color: #ff9970 ;
+    padding-left: 100px;
+    padding-top: 100px;
+    border:10px solid gold;
+}
+
